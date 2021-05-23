@@ -7,3 +7,12 @@ h1{
 	font-family: sans-serif;
 	background: lightgreen;
 }
+
+h2{
+	background: skyblue;
+	text-align: center;
+	font-size: 35px;
+	color: white;
+	padding: 5px;
+	margin: 20px;
+}
